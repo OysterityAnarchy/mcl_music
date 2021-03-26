@@ -1,0 +1,3 @@
+# How many seconds MPD waits before starting the next song
+mcl_music_pause_between_songs (Pause between songs) int 9000 1500 9000
+
